@@ -1,0 +1,28 @@
+.container-box {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 25px;
+  background: #5597b5;
+  border-radius: 10px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.form-control {
+  margin-bottom: 12px;
+}
+
+.action-btn {
+  margin-right: 10px;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
